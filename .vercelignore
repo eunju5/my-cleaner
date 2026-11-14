@@ -1,0 +1,15 @@
+# 배포(사이트)에 올리지 않는다
+
+# 어디에도 올리지 않는다 (.gitignore와 같음)
+tools/
+진단/
+.claude/
+*_정리본.xlsx
+*_바꾼기록.xlsx
+~$*
+
+# 저장소에만 올린다
+CLAUDE.md
+README.md
+.gitignore
+.vercelignore
